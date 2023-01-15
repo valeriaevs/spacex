@@ -5,4 +5,4 @@
 * CSS
 * JavaScript
 
-## Ссылка на сайт проекта: https://valeria-7.github.io/spacex/
+## Ссылка на сайт проекта: https://valeriaevs.github.io/spacex/
